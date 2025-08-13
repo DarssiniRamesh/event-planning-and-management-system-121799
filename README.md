@@ -1,1 +1,3 @@
-# event-planning-and-management-system-121799
+# Project Repository
+
+This is the initial README file for the project.
